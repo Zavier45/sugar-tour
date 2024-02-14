@@ -1,0 +1,16 @@
+@import "details.css";
+
+h1,h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;    
+    text-shadow: 1px 1px #000000;    
+}
+
+h1 {
+    text-align: center;
+}
+
+body {
+    background-color: #1D1E2C;
+    color: #D2F898;
+}

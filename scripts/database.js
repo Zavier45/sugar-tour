@@ -37,7 +37,7 @@ const database = {
     },
     {
       id: 6,
-      name: "Metro",
+      name: "The Metro Club",
       address: "3730 N Clark St, Chicago, IL 60613",
       size: 100645,
       maxOccupancy: 1100,
@@ -90,7 +90,7 @@ const database = {
       id: 2,
       name: "Digital Revenge Fantasy",
       members: 8,
-      genre: "Polynesian Pop",
+      genre: "EDM Punk",
       yearFormed: 2023,
     },
     {
@@ -193,7 +193,7 @@ const database = {
     {
       id: 4,
       bandId: 12,
-      venueId: 2,
+      venueId: 11,
       date: "9-19-2024",
     },
     {
@@ -222,7 +222,7 @@ const database = {
     },
     {
       id: 9,
-      bandId: 8,
+      bandId: 13,
       venueId: 10,
       date: "1-13-2025",
     },
